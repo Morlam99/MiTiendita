@@ -63,6 +63,7 @@ Inventory
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
+![alt text](IMG_4880.HEIC)
 
 
 
