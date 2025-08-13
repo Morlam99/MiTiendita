@@ -65,14 +65,13 @@ Wireframes
 
 ![alt text](IMG_4880.HEIC)
 
+##Demo
 
-
-[This section will be completed in Unit 9]
-
-Models
-[Add table of models]
-
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
+<div>
+    <a href="https://www.loom.com/share/e99ebeb8d1874e6c932d64fdeae862f4">
+      <p>iOS recording - 13 Aug 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e99ebeb8d1874e6c932d64fdeae862f4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e99ebeb8d1874e6c932d64fdeae862f4-98c58f4c196f7c05-full-play.gif">
+    </a>
+  </div>
